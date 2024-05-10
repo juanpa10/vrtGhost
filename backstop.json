@@ -1,0 +1,370 @@
+{
+  "id": "project_comparison",
+  "viewports": [
+    {
+      "label": "desktop",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "scenarios": [
+    {
+      "label": "click_delete.png",
+      "url": "/screenshots_3.42/click_delete.png",
+      "referenceUrl": "/screenshots_5.80/click_delete.png",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold": 0.1
+    },
+    {
+      "label": "click_delete_post.png",
+      "url": "/screenshots_3.42/click_delete_post.png",
+      "referenceUrl": "/screenshots_5.80/click_delete_post.png",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold": 0.1
+    },
+    {
+      "label": "click_delete_tag.png",
+      "url": "/screenshots_3.42/click_delete_tag.png",
+      "referenceUrl": "/screenshots_5.80/click_delete_tag.png",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold": 0.1
+    },
+    {
+      "label": "click_login.png",
+      "url": "/screenshots_3.42/click_login.png",
+      "referenceUrl": "/screenshots_5.80/click_login.png",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold": 0.1
+    },
+    {
+      "label": "click_new_post.png",
+      "url": "/screenshots_3.42/click_new_post.png",
+      "referenceUrl": "/screenshots_5.80/click_new_post.png",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold": 0.1
+    },
+    {
+      "label": "click_new_tag.png",
+      "url": "/screenshots_3.42/click_new_tag.png",
+      "referenceUrl": "/screenshots_5.80/click_new_tag.png",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold": 0.1
+    },
+    {
+      "label": "click_on_save.png",
+      "url": "/screenshots_3.42/click_on_save.png",
+      "referenceUrl": "/screenshots_5.80/click_on_save.png",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold": 0.1
+    },
+    {
+      "label": "click_on_tags.png",
+      "url": "/screenshots_3.42/click_on_tags.png",
+      "referenceUrl": "/screenshots_5.80/click_on_tags.png",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold": 0.1
+    },
+    {
+      "label": "click_on_update.png",
+      "url": "/screenshots_3.42/click_on_update.png",
+      "referenceUrl": "/screenshots_5.80/click_on_update.png",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold": 0.1
+    },
+    {
+      "label": "click_posts.png",
+      "url": "/screenshots_3.42/click_posts.png",
+      "referenceUrl": "/screenshots_5.80/click_posts.png",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold": 0.1
+    },
+    {
+      "label": "click_post_name.png",
+      "url": "/screenshots_3.42/click_post_name.png",
+      "referenceUrl": "/screenshots_5.80/click_post_name.png",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold": 0.1
+    },
+    {
+      "label": "click_post_options.png",
+      "url": "/screenshots_3.42/click_post_options.png",
+      "referenceUrl": "/screenshots_5.80/click_post_options.png",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold": 0.1
+    },
+    {
+      "label": "click_publish.png",
+      "url": "/screenshots_3.42/click_publish.png",
+      "referenceUrl": "/screenshots_5.80/click_publish.png",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold": 0.1
+    },
+    {
+      "label": "click_publish_post.png",
+      "url": "/screenshots_3.42/click_publish_post.png",
+      "referenceUrl": "/screenshots_5.80/click_publish_post.png",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold": 0.1
+    },
+    {
+      "label": "click_tag_name.png",
+      "url": "/screenshots_3.42/click_tag_name.png",
+      "referenceUrl": "/screenshots_5.80/click_tag_name.png",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold": 0.1
+    },
+    {
+      "label": "enter_email.png",
+      "url": "/screenshots_3.42/enter_email.png",
+      "referenceUrl": "/screenshots_5.80/enter_email.png",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold": 0.1
+    },
+    {
+      "label": "enter_password.png",
+      "url": "/screenshots_3.42/enter_password.png",
+      "referenceUrl": "/screenshots_5.80/enter_password.png",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold": 0.1
+    },
+    {
+      "label": "enter_post_content.png",
+      "url": "/screenshots_3.42/enter_post_content.png",
+      "referenceUrl": "/screenshots_5.80/enter_post_content.png",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold": 0.1
+    },
+    {
+      "label": "enter_post_title.png",
+      "url": "/screenshots_3.42/enter_post_title.png",
+      "referenceUrl": "/screenshots_5.80/enter_post_title.png",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold": 0.1
+    },
+    {
+      "label": "enter_tag_description.png",
+      "url": "/screenshots_3.42/enter_tag_description.png",
+      "referenceUrl": "/screenshots_5.80/enter_tag_description.png",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold": 0.1
+    },
+    {
+      "label": "enter_tag_name.png",
+      "url": "/screenshots_3.42/enter_tag_name.png",
+      "referenceUrl": "/screenshots_5.80/enter_tag_name.png",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold": 0.1
+    },
+    {
+      "label": "verify_element_tag.png",
+      "url": "/screenshots_3.42/verify_element_tag.png",
+      "referenceUrl": "/screenshots_5.80/verify_element_tag.png",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold": 0.1
+    },
+    {
+      "label": "verify_header_exists.png",
+      "url": "/screenshots_3.42/verify_header_exists.png",
+      "referenceUrl": "/screenshots_5.80/verify_header_exists.png",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold": 0.1
+    },
+    {
+      "label": "verify_post_exist.png",
+      "url": "/screenshots_3.42/verify_post_exist.png",
+      "referenceUrl": "/screenshots_5.80/verify_post_exist.png",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold": 0.1
+    },
+    {
+      "label": "verify_post_exists.png",
+      "url": "/screenshots_3.42/verify_post_exists.png",
+      "referenceUrl": "/screenshots_5.80/verify_post_exists.png",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold": 0.1
+    },
+    {
+      "label": "verify_update_notification.png",
+      "url": "/screenshots_3.42/verify_update_notification.png",
+      "referenceUrl": "/screenshots_5.80/verify_update_notification.png",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold": 0.1
+    }
+  ],
+  "paths": {
+    "bitmaps_reference": "backstop_data\\bitmaps_reference",
+    "bitmaps_test": "backstop_data\\bitmaps_test",
+    "engine_scripts": "backstop_data\\engine_scripts",
+    "html_report": "backstop_data\\html_report",
+    "ci_report": "backstop_data\\ci_report"
+  },
+  "report": [
+    "browser"
+  ],
+  "engine": "puppeteer",
+  "engineOptions": {
+    "args": [
+      "--no-sandbox"
+    ]
+  },
+  "asyncCaptureLimit": 5,
+  "asyncCompareLimit": 50,
+  "debug": false,
+  "debugWindow": false
+}
