@@ -55,4 +55,6 @@ Este proyecto facilita la comparación visual de las funcionalidades entre las v
 - Abre el archivo index.html en la raiz del proyecto.
 - En esta pagina deberías poder ver el reporte tanto de Resemble como de Backstop.
 
+### Nota
 
+- las carpetas ya estan llenas por temas prácticos de repositorio por lo que basta con abrir el index.html y ya, pero el reporte se puede hacer de ceros siempre y cuando se sigan los pasos descritos en este README, es importante que las imagenes esten en las carpetas con los nombres tal cual están descritas en este README y que exista en la raiz del proyecto una carpeta con el nombre path_to_reports
