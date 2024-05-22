@@ -1,0 +1,330 @@
+{
+  "testSuite": "BackstopJS",
+  "tests": [
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\project_comparison_Add_Member_--_despues_del_login_gregar_un_member_1png_0_document_0_desktop.png",
+        "test": "..\\bitmaps_test\\20240521-065659\\project_comparison_Add_Member_--_despues_del_login_gregar_un_member_1png_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "project_comparison_Add_Member_--_despues_del_login_gregar_un_member_1png_0_document_0_desktop.png",
+        "label": "Add Member -- despues del login gregar un member (1).png",
+        "requireSameDimensions": 0.1,
+        "misMatchThreshold": 0.1,
+        "url": "/screenshots_edge/Add Member -- despues del login gregar un member (1).png",
+        "referenceUrl": "/screenshots_chrome/Add Member -- despues del login gregar un member (1).png",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 10.020061728395062,
+          "misMatchPercentage": "10.02",
+          "analysisTime": 193
+        },
+        "diffImage": "..\\bitmaps_test\\20240521-065659\\failed_diff_project_comparison_Add_Member_--_despues_del_login_gregar_un_member_1png_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\project_comparison_Add_Member_--_despues_del_login_gregar_un_member_failedpng_0_document_0_desktop.png",
+        "test": "..\\bitmaps_test\\20240521-065659\\project_comparison_Add_Member_--_despues_del_login_gregar_un_member_failedpng_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "project_comparison_Add_Member_--_despues_del_login_gregar_un_member_failedpng_0_document_0_desktop.png",
+        "label": "Add Member -- despues del login gregar un member (failed).png",
+        "requireSameDimensions": 0.1,
+        "misMatchThreshold": 0.1,
+        "url": "/screenshots_edge/Add Member -- despues del login gregar un member (failed).png",
+        "referenceUrl": "/screenshots_chrome/Add Member -- despues del login gregar un member (failed).png",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 15.837336033950617,
+          "misMatchPercentage": "15.84",
+          "analysisTime": 194
+        },
+        "diffImage": "..\\bitmaps_test\\20240521-065659\\failed_diff_project_comparison_Add_Member_--_despues_del_login_gregar_un_member_failedpng_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\project_comparison_Add_Member_--_despues_del_login_gregar_un_memberpng_0_document_0_desktop.png",
+        "test": "..\\bitmaps_test\\20240521-065659\\project_comparison_Add_Member_--_despues_del_login_gregar_un_memberpng_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "project_comparison_Add_Member_--_despues_del_login_gregar_un_memberpng_0_document_0_desktop.png",
+        "label": "Add Member -- despues del login gregar un member.png",
+        "requireSameDimensions": 0.1,
+        "misMatchThreshold": 0.1,
+        "url": "/screenshots_edge/Add Member -- despues del login gregar un member.png",
+        "referenceUrl": "/screenshots_chrome/Add Member -- despues del login gregar un member.png",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 9.305844907407407,
+          "misMatchPercentage": "9.31",
+          "analysisTime": 207
+        },
+        "diffImage": "..\\bitmaps_test\\20240521-065659\\failed_diff_project_comparison_Add_Member_--_despues_del_login_gregar_un_memberpng_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\project_comparison_Create_Page_--_despues_del_login_crear_una_Page_1png_0_document_0_desktop.png",
+        "test": "..\\bitmaps_test\\20240521-065659\\project_comparison_Create_Page_--_despues_del_login_crear_una_Page_1png_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "project_comparison_Create_Page_--_despues_del_login_crear_una_Page_1png_0_document_0_desktop.png",
+        "label": "Create Page -- despues del login crear una Page (1).png",
+        "requireSameDimensions": 0.1,
+        "misMatchThreshold": 0.1,
+        "url": "/screenshots_edge/Create Page -- despues del login crear una Page (1).png",
+        "referenceUrl": "/screenshots_chrome/Create Page -- despues del login crear una Page (1).png",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 2.2133969907407405,
+          "misMatchPercentage": "2.21",
+          "analysisTime": 157
+        },
+        "diffImage": "..\\bitmaps_test\\20240521-065659\\failed_diff_project_comparison_Create_Page_--_despues_del_login_crear_una_Page_1png_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\project_comparison_Create_Page_--_despues_del_login_crear_una_Page_2png_0_document_0_desktop.png",
+        "test": "..\\bitmaps_test\\20240521-065659\\project_comparison_Create_Page_--_despues_del_login_crear_una_Page_2png_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "project_comparison_Create_Page_--_despues_del_login_crear_una_Page_2png_0_document_0_desktop.png",
+        "label": "Create Page -- despues del login crear una Page (2).png",
+        "requireSameDimensions": 0.1,
+        "misMatchThreshold": 0.1,
+        "url": "/screenshots_edge/Create Page -- despues del login crear una Page (2).png",
+        "referenceUrl": "/screenshots_chrome/Create Page -- despues del login crear una Page (2).png",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 3.350308641975309,
+          "misMatchPercentage": "3.35",
+          "analysisTime": 93
+        },
+        "diffImage": "..\\bitmaps_test\\20240521-065659\\failed_diff_project_comparison_Create_Page_--_despues_del_login_crear_una_Page_2png_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\project_comparison_Create_Page_--_despues_del_login_crear_una_Page_3png_0_document_0_desktop.png",
+        "test": "..\\bitmaps_test\\20240521-065659\\project_comparison_Create_Page_--_despues_del_login_crear_una_Page_3png_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "project_comparison_Create_Page_--_despues_del_login_crear_una_Page_3png_0_document_0_desktop.png",
+        "label": "Create Page -- despues del login crear una Page (3).png",
+        "requireSameDimensions": 0.1,
+        "misMatchThreshold": 0.1,
+        "url": "/screenshots_edge/Create Page -- despues del login crear una Page (3).png",
+        "referenceUrl": "/screenshots_chrome/Create Page -- despues del login crear una Page (3).png",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 3.367235725308642,
+          "misMatchPercentage": "3.37",
+          "analysisTime": 183
+        },
+        "diffImage": "..\\bitmaps_test\\20240521-065659\\failed_diff_project_comparison_Create_Page_--_despues_del_login_crear_una_Page_3png_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\project_comparison_Create_Page_--_despues_del_login_crear_una_Pagepng_0_document_0_desktop.png",
+        "test": "..\\bitmaps_test\\20240521-065659\\project_comparison_Create_Page_--_despues_del_login_crear_una_Pagepng_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "project_comparison_Create_Page_--_despues_del_login_crear_una_Pagepng_0_document_0_desktop.png",
+        "label": "Create Page -- despues del login crear una Page.png",
+        "requireSameDimensions": 0.1,
+        "misMatchThreshold": 0.1,
+        "url": "/screenshots_edge/Create Page -- despues del login crear una Page.png",
+        "referenceUrl": "/screenshots_chrome/Create Page -- despues del login crear una Page.png",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 2.9369695216049383,
+          "misMatchPercentage": "2.94",
+          "analysisTime": 162
+        },
+        "diffImage": "..\\bitmaps_test\\20240521-065659\\failed_diff_project_comparison_Create_Page_--_despues_del_login_crear_una_Pagepng_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\project_comparison_Edit_Tag_--_despues_del_login_editar_un_tag_1png_0_document_0_desktop.png",
+        "test": "..\\bitmaps_test\\20240521-065659\\project_comparison_Edit_Tag_--_despues_del_login_editar_un_tag_1png_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "project_comparison_Edit_Tag_--_despues_del_login_editar_un_tag_1png_0_document_0_desktop.png",
+        "label": "Edit Tag -- despues del login editar un tag (1).png",
+        "requireSameDimensions": 0.1,
+        "misMatchThreshold": 0.1,
+        "url": "/screenshots_edge/Edit Tag -- despues del login editar un tag (1).png",
+        "referenceUrl": "/screenshots_chrome/Edit Tag -- despues del login editar un tag (1).png",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 3.5336130401234565,
+          "misMatchPercentage": "3.53",
+          "analysisTime": 211
+        },
+        "diffImage": "..\\bitmaps_test\\20240521-065659\\failed_diff_project_comparison_Edit_Tag_--_despues_del_login_editar_un_tag_1png_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\project_comparison_Edit_Tag_--_despues_del_login_editar_un_tag_2png_0_document_0_desktop.png",
+        "test": "..\\bitmaps_test\\20240521-065659\\project_comparison_Edit_Tag_--_despues_del_login_editar_un_tag_2png_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "project_comparison_Edit_Tag_--_despues_del_login_editar_un_tag_2png_0_document_0_desktop.png",
+        "label": "Edit Tag -- despues del login editar un tag (2).png",
+        "requireSameDimensions": 0.1,
+        "misMatchThreshold": 0.1,
+        "url": "/screenshots_edge/Edit Tag -- despues del login editar un tag (2).png",
+        "referenceUrl": "/screenshots_chrome/Edit Tag -- despues del login editar un tag (2).png",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 4.203800154320988,
+          "misMatchPercentage": "4.20",
+          "analysisTime": 166
+        },
+        "diffImage": "..\\bitmaps_test\\20240521-065659\\failed_diff_project_comparison_Edit_Tag_--_despues_del_login_editar_un_tag_2png_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\project_comparison_Edit_Tag_--_despues_del_login_editar_un_tag_3png_0_document_0_desktop.png",
+        "test": "..\\bitmaps_test\\20240521-065659\\project_comparison_Edit_Tag_--_despues_del_login_editar_un_tag_3png_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "project_comparison_Edit_Tag_--_despues_del_login_editar_un_tag_3png_0_document_0_desktop.png",
+        "label": "Edit Tag -- despues del login editar un tag (3).png",
+        "requireSameDimensions": 0.1,
+        "misMatchThreshold": 0.1,
+        "url": "/screenshots_edge/Edit Tag -- despues del login editar un tag (3).png",
+        "referenceUrl": "/screenshots_chrome/Edit Tag -- despues del login editar un tag (3).png",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 4.334780092592593,
+          "misMatchPercentage": "4.33",
+          "analysisTime": 175
+        },
+        "diffImage": "..\\bitmaps_test\\20240521-065659\\failed_diff_project_comparison_Edit_Tag_--_despues_del_login_editar_un_tag_3png_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\project_comparison_Edit_Tag_--_despues_del_login_editar_un_tag_4png_0_document_0_desktop.png",
+        "test": "..\\bitmaps_test\\20240521-065659\\project_comparison_Edit_Tag_--_despues_del_login_editar_un_tag_4png_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "project_comparison_Edit_Tag_--_despues_del_login_editar_un_tag_4png_0_document_0_desktop.png",
+        "label": "Edit Tag -- despues del login editar un tag (4).png",
+        "requireSameDimensions": 0.1,
+        "misMatchThreshold": 0.1,
+        "url": "/screenshots_edge/Edit Tag -- despues del login editar un tag (4).png",
+        "referenceUrl": "/screenshots_chrome/Edit Tag -- despues del login editar un tag (4).png",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 4.418065200617284,
+          "misMatchPercentage": "4.42",
+          "analysisTime": 129
+        },
+        "diffImage": "..\\bitmaps_test\\20240521-065659\\failed_diff_project_comparison_Edit_Tag_--_despues_del_login_editar_un_tag_4png_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\project_comparison_Edit_Tag_--_despues_del_login_editar_un_tagpng_0_document_0_desktop.png",
+        "test": "..\\bitmaps_test\\20240521-065659\\project_comparison_Edit_Tag_--_despues_del_login_editar_un_tagpng_0_document_0_desktop.png",
+        "selector": "document",
+        "fileName": "project_comparison_Edit_Tag_--_despues_del_login_editar_un_tagpng_0_document_0_desktop.png",
+        "label": "Edit Tag -- despues del login editar un tag.png",
+        "requireSameDimensions": 0.1,
+        "misMatchThreshold": 0.1,
+        "url": "/screenshots_edge/Edit Tag -- despues del login editar un tag.png",
+        "referenceUrl": "/screenshots_chrome/Edit Tag -- despues del login editar un tag.png",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 4.208092206790123,
+          "misMatchPercentage": "4.21",
+          "analysisTime": 99
+        },
+        "diffImage": "..\\bitmaps_test\\20240521-065659\\failed_diff_project_comparison_Edit_Tag_--_despues_del_login_editar_un_tagpng_0_document_0_desktop.png"
+      },
+      "status": "fail"
+    }
+  ],
+  "id": "project_comparison"
+}

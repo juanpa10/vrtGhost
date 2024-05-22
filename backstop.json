@@ -9,9 +9,9 @@
   ],
   "scenarios": [
     {
-      "label": "click_delete.png",
-      "url": "/screenshots_3.42/click_delete.png",
-      "referenceUrl": "/screenshots_5.80/click_delete.png",
+      "label": "Add Member -- despues del login gregar un member (1).png",
+      "url": "/screenshots_edge/Add Member -- despues del login gregar un member (1).png",
+      "referenceUrl": "/screenshots_chrome/Add Member -- despues del login gregar un member (1).png",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -22,9 +22,9 @@
       "misMatchThreshold": 0.1
     },
     {
-      "label": "click_delete_post.png",
-      "url": "/screenshots_3.42/click_delete_post.png",
-      "referenceUrl": "/screenshots_5.80/click_delete_post.png",
+      "label": "Add Member -- despues del login gregar un member (failed).png",
+      "url": "/screenshots_edge/Add Member -- despues del login gregar un member (failed).png",
+      "referenceUrl": "/screenshots_chrome/Add Member -- despues del login gregar un member (failed).png",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -35,9 +35,9 @@
       "misMatchThreshold": 0.1
     },
     {
-      "label": "click_delete_tag.png",
-      "url": "/screenshots_3.42/click_delete_tag.png",
-      "referenceUrl": "/screenshots_5.80/click_delete_tag.png",
+      "label": "Add Member -- despues del login gregar un member.png",
+      "url": "/screenshots_edge/Add Member -- despues del login gregar un member.png",
+      "referenceUrl": "/screenshots_chrome/Add Member -- despues del login gregar un member.png",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -48,9 +48,9 @@
       "misMatchThreshold": 0.1
     },
     {
-      "label": "click_login.png",
-      "url": "/screenshots_3.42/click_login.png",
-      "referenceUrl": "/screenshots_5.80/click_login.png",
+      "label": "Create Page -- despues del login crear una Page (1).png",
+      "url": "/screenshots_edge/Create Page -- despues del login crear una Page (1).png",
+      "referenceUrl": "/screenshots_chrome/Create Page -- despues del login crear una Page (1).png",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -61,9 +61,9 @@
       "misMatchThreshold": 0.1
     },
     {
-      "label": "click_new_post.png",
-      "url": "/screenshots_3.42/click_new_post.png",
-      "referenceUrl": "/screenshots_5.80/click_new_post.png",
+      "label": "Create Page -- despues del login crear una Page (2).png",
+      "url": "/screenshots_edge/Create Page -- despues del login crear una Page (2).png",
+      "referenceUrl": "/screenshots_chrome/Create Page -- despues del login crear una Page (2).png",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -74,9 +74,9 @@
       "misMatchThreshold": 0.1
     },
     {
-      "label": "click_new_tag.png",
-      "url": "/screenshots_3.42/click_new_tag.png",
-      "referenceUrl": "/screenshots_5.80/click_new_tag.png",
+      "label": "Create Page -- despues del login crear una Page (3).png",
+      "url": "/screenshots_edge/Create Page -- despues del login crear una Page (3).png",
+      "referenceUrl": "/screenshots_chrome/Create Page -- despues del login crear una Page (3).png",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -87,9 +87,9 @@
       "misMatchThreshold": 0.1
     },
     {
-      "label": "click_on_save.png",
-      "url": "/screenshots_3.42/click_on_save.png",
-      "referenceUrl": "/screenshots_5.80/click_on_save.png",
+      "label": "Create Page -- despues del login crear una Page.png",
+      "url": "/screenshots_edge/Create Page -- despues del login crear una Page.png",
+      "referenceUrl": "/screenshots_chrome/Create Page -- despues del login crear una Page.png",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -100,9 +100,9 @@
       "misMatchThreshold": 0.1
     },
     {
-      "label": "click_on_tags.png",
-      "url": "/screenshots_3.42/click_on_tags.png",
-      "referenceUrl": "/screenshots_5.80/click_on_tags.png",
+      "label": "Edit Member -- despues del login editar un member (1).png",
+      "url": "/screenshots_edge/Edit Member -- despues del login editar un member (1).png",
+      "referenceUrl": "/screenshots_chrome/Edit Member -- despues del login editar un member (1).png",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -113,9 +113,9 @@
       "misMatchThreshold": 0.1
     },
     {
-      "label": "click_on_update.png",
-      "url": "/screenshots_3.42/click_on_update.png",
-      "referenceUrl": "/screenshots_5.80/click_on_update.png",
+      "label": "Edit Member -- despues del login editar un member (2).png",
+      "url": "/screenshots_edge/Edit Member -- despues del login editar un member (2).png",
+      "referenceUrl": "/screenshots_chrome/Edit Member -- despues del login editar un member (2).png",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -126,9 +126,9 @@
       "misMatchThreshold": 0.1
     },
     {
-      "label": "click_posts.png",
-      "url": "/screenshots_3.42/click_posts.png",
-      "referenceUrl": "/screenshots_5.80/click_posts.png",
+      "label": "Edit Member -- despues del login editar un member (3).png",
+      "url": "/screenshots_edge/Edit Member -- despues del login editar un member (3).png",
+      "referenceUrl": "/screenshots_chrome/Edit Member -- despues del login editar un member (3).png",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -139,9 +139,9 @@
       "misMatchThreshold": 0.1
     },
     {
-      "label": "click_post_name.png",
-      "url": "/screenshots_3.42/click_post_name.png",
-      "referenceUrl": "/screenshots_5.80/click_post_name.png",
+      "label": "Edit Member -- despues del login editar un member (failed).png",
+      "url": "/screenshots_edge/Edit Member -- despues del login editar un member (failed).png",
+      "referenceUrl": "/screenshots_chrome/Edit Member -- despues del login editar un member (failed).png",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -152,9 +152,9 @@
       "misMatchThreshold": 0.1
     },
     {
-      "label": "click_post_options.png",
-      "url": "/screenshots_3.42/click_post_options.png",
-      "referenceUrl": "/screenshots_5.80/click_post_options.png",
+      "label": "Edit Member -- despues del login editar un member.png",
+      "url": "/screenshots_edge/Edit Member -- despues del login editar un member.png",
+      "referenceUrl": "/screenshots_chrome/Edit Member -- despues del login editar un member.png",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -165,9 +165,9 @@
       "misMatchThreshold": 0.1
     },
     {
-      "label": "click_publish.png",
-      "url": "/screenshots_3.42/click_publish.png",
-      "referenceUrl": "/screenshots_5.80/click_publish.png",
+      "label": "Edit Page -- despues del login editar un page (1).png",
+      "url": "/screenshots_edge/Edit Page -- despues del login editar un page (1).png",
+      "referenceUrl": "/screenshots_chrome/Edit Page -- despues del login editar un page (1).png",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -178,9 +178,9 @@
       "misMatchThreshold": 0.1
     },
     {
-      "label": "click_publish_post.png",
-      "url": "/screenshots_3.42/click_publish_post.png",
-      "referenceUrl": "/screenshots_5.80/click_publish_post.png",
+      "label": "Edit Page -- despues del login editar un page (2).png",
+      "url": "/screenshots_edge/Edit Page -- despues del login editar un page (2).png",
+      "referenceUrl": "/screenshots_chrome/Edit Page -- despues del login editar un page (2).png",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -191,9 +191,9 @@
       "misMatchThreshold": 0.1
     },
     {
-      "label": "click_tag_name.png",
-      "url": "/screenshots_3.42/click_tag_name.png",
-      "referenceUrl": "/screenshots_5.80/click_tag_name.png",
+      "label": "Edit Page -- despues del login editar un page (3).png",
+      "url": "/screenshots_edge/Edit Page -- despues del login editar un page (3).png",
+      "referenceUrl": "/screenshots_chrome/Edit Page -- despues del login editar un page (3).png",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -204,9 +204,9 @@
       "misMatchThreshold": 0.1
     },
     {
-      "label": "enter_email.png",
-      "url": "/screenshots_3.42/enter_email.png",
-      "referenceUrl": "/screenshots_5.80/enter_email.png",
+      "label": "Edit Page -- despues del login editar un page (4).png",
+      "url": "/screenshots_edge/Edit Page -- despues del login editar un page (4).png",
+      "referenceUrl": "/screenshots_chrome/Edit Page -- despues del login editar un page (4).png",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -217,9 +217,9 @@
       "misMatchThreshold": 0.1
     },
     {
-      "label": "enter_password.png",
-      "url": "/screenshots_3.42/enter_password.png",
-      "referenceUrl": "/screenshots_5.80/enter_password.png",
+      "label": "Edit Page -- despues del login editar un page (5).png",
+      "url": "/screenshots_edge/Edit Page -- despues del login editar un page (5).png",
+      "referenceUrl": "/screenshots_chrome/Edit Page -- despues del login editar un page (5).png",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -230,9 +230,9 @@
       "misMatchThreshold": 0.1
     },
     {
-      "label": "enter_post_content.png",
-      "url": "/screenshots_3.42/enter_post_content.png",
-      "referenceUrl": "/screenshots_5.80/enter_post_content.png",
+      "label": "Edit Page -- despues del login editar un page (6).png",
+      "url": "/screenshots_edge/Edit Page -- despues del login editar un page (6).png",
+      "referenceUrl": "/screenshots_chrome/Edit Page -- despues del login editar un page (6).png",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -243,9 +243,9 @@
       "misMatchThreshold": 0.1
     },
     {
-      "label": "enter_post_title.png",
-      "url": "/screenshots_3.42/enter_post_title.png",
-      "referenceUrl": "/screenshots_5.80/enter_post_title.png",
+      "label": "Edit Page -- despues del login editar un page (failed).png",
+      "url": "/screenshots_edge/Edit Page -- despues del login editar un page (failed).png",
+      "referenceUrl": "/screenshots_chrome/Edit Page -- despues del login editar un page (failed).png",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -256,9 +256,9 @@
       "misMatchThreshold": 0.1
     },
     {
-      "label": "enter_tag_description.png",
-      "url": "/screenshots_3.42/enter_tag_description.png",
-      "referenceUrl": "/screenshots_5.80/enter_tag_description.png",
+      "label": "Edit Page -- despues del login editar un page.png",
+      "url": "/screenshots_edge/Edit Page -- despues del login editar un page.png",
+      "referenceUrl": "/screenshots_chrome/Edit Page -- despues del login editar un page.png",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -269,9 +269,9 @@
       "misMatchThreshold": 0.1
     },
     {
-      "label": "enter_tag_name.png",
-      "url": "/screenshots_3.42/enter_tag_name.png",
-      "referenceUrl": "/screenshots_5.80/enter_tag_name.png",
+      "label": "Edit Tag -- despues del login editar un tag (1).png",
+      "url": "/screenshots_edge/Edit Tag -- despues del login editar un tag (1).png",
+      "referenceUrl": "/screenshots_chrome/Edit Tag -- despues del login editar un tag (1).png",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -282,9 +282,9 @@
       "misMatchThreshold": 0.1
     },
     {
-      "label": "verify_element_tag.png",
-      "url": "/screenshots_3.42/verify_element_tag.png",
-      "referenceUrl": "/screenshots_5.80/verify_element_tag.png",
+      "label": "Edit Tag -- despues del login editar un tag (2).png",
+      "url": "/screenshots_edge/Edit Tag -- despues del login editar un tag (2).png",
+      "referenceUrl": "/screenshots_chrome/Edit Tag -- despues del login editar un tag (2).png",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -295,9 +295,9 @@
       "misMatchThreshold": 0.1
     },
     {
-      "label": "verify_header_exists.png",
-      "url": "/screenshots_3.42/verify_header_exists.png",
-      "referenceUrl": "/screenshots_5.80/verify_header_exists.png",
+      "label": "Edit Tag -- despues del login editar un tag (3).png",
+      "url": "/screenshots_edge/Edit Tag -- despues del login editar un tag (3).png",
+      "referenceUrl": "/screenshots_chrome/Edit Tag -- despues del login editar un tag (3).png",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -308,9 +308,9 @@
       "misMatchThreshold": 0.1
     },
     {
-      "label": "verify_post_exist.png",
-      "url": "/screenshots_3.42/verify_post_exist.png",
-      "referenceUrl": "/screenshots_5.80/verify_post_exist.png",
+      "label": "Edit Tag -- despues del login editar un tag (4).png",
+      "url": "/screenshots_edge/Edit Tag -- despues del login editar un tag (4).png",
+      "referenceUrl": "/screenshots_chrome/Edit Tag -- despues del login editar un tag (4).png",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -321,9 +321,9 @@
       "misMatchThreshold": 0.1
     },
     {
-      "label": "verify_post_exists.png",
-      "url": "/screenshots_3.42/verify_post_exists.png",
-      "referenceUrl": "/screenshots_5.80/verify_post_exists.png",
+      "label": "Edit Tag -- despues del login editar un tag.png",
+      "url": "/screenshots_edge/Edit Tag -- despues del login editar un tag.png",
+      "referenceUrl": "/screenshots_chrome/Edit Tag -- despues del login editar un tag.png",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
@@ -334,9 +334,152 @@
       "misMatchThreshold": 0.1
     },
     {
-      "label": "verify_update_notification.png",
-      "url": "/screenshots_3.42/verify_update_notification.png",
-      "referenceUrl": "/screenshots_5.80/verify_update_notification.png",
+      "label": "Editar Idioma -- editar la configuaración de idioma dentro de los settings (1).png",
+      "url": "/screenshots_edge/Editar Idioma -- editar la configuaración de idioma dentro de los settings (1).png",
+      "referenceUrl": "/screenshots_chrome/Editar Idioma -- editar la configuaración de idioma dentro de los settings (1).png",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold": 0.1
+    },
+    {
+      "label": "Editar Idioma -- editar la configuaración de idioma dentro de los settings (2).png",
+      "url": "/screenshots_edge/Editar Idioma -- editar la configuaración de idioma dentro de los settings (2).png",
+      "referenceUrl": "/screenshots_chrome/Editar Idioma -- editar la configuaración de idioma dentro de los settings (2).png",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold": 0.1
+    },
+    {
+      "label": "Editar Idioma -- editar la configuaración de idioma dentro de los settings (3).png",
+      "url": "/screenshots_edge/Editar Idioma -- editar la configuaración de idioma dentro de los settings (3).png",
+      "referenceUrl": "/screenshots_chrome/Editar Idioma -- editar la configuaración de idioma dentro de los settings (3).png",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold": 0.1
+    },
+    {
+      "label": "Editar Idioma -- editar la configuaración de idioma dentro de los settings.png",
+      "url": "/screenshots_edge/Editar Idioma -- editar la configuaración de idioma dentro de los settings.png",
+      "referenceUrl": "/screenshots_chrome/Editar Idioma -- editar la configuaración de idioma dentro de los settings.png",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold": 0.1
+    },
+    {
+      "label": "New Post Test -- despues del login entra a crear un post nuevo (1).png",
+      "url": "/screenshots_edge/New Post Test -- despues del login entra a crear un post nuevo (1).png",
+      "referenceUrl": "/screenshots_chrome/New Post Test -- despues del login entra a crear un post nuevo (1).png",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold": 0.1
+    },
+    {
+      "label": "New Post Test -- despues del login entra a crear un post nuevo (2).png",
+      "url": "/screenshots_edge/New Post Test -- despues del login entra a crear un post nuevo (2).png",
+      "referenceUrl": "/screenshots_chrome/New Post Test -- despues del login entra a crear un post nuevo (2).png",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold": 0.1
+    },
+    {
+      "label": "New Post Test -- despues del login entra a crear un post nuevo (3).png",
+      "url": "/screenshots_edge/New Post Test -- despues del login entra a crear un post nuevo (3).png",
+      "referenceUrl": "/screenshots_chrome/New Post Test -- despues del login entra a crear un post nuevo (3).png",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold": 0.1
+    },
+    {
+      "label": "New Post Test -- despues del login entra a crear un post nuevo.png",
+      "url": "/screenshots_edge/New Post Test -- despues del login entra a crear un post nuevo.png",
+      "referenceUrl": "/screenshots_chrome/New Post Test -- despues del login entra a crear un post nuevo.png",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold": 0.1
+    },
+    {
+      "label": "New Tag Test -- despues del login entra a crear un post nuevo (1).png",
+      "url": "/screenshots_edge/New Tag Test -- despues del login entra a crear un post nuevo (1).png",
+      "referenceUrl": "/screenshots_chrome/New Tag Test -- despues del login entra a crear un post nuevo (1).png",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold": 0.1
+    },
+    {
+      "label": "New Tag Test -- despues del login entra a crear un post nuevo (2).png",
+      "url": "/screenshots_edge/New Tag Test -- despues del login entra a crear un post nuevo (2).png",
+      "referenceUrl": "/screenshots_chrome/New Tag Test -- despues del login entra a crear un post nuevo (2).png",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold": 0.1
+    },
+    {
+      "label": "New Tag Test -- despues del login entra a crear un post nuevo (3).png",
+      "url": "/screenshots_edge/New Tag Test -- despues del login entra a crear un post nuevo (3).png",
+      "referenceUrl": "/screenshots_chrome/New Tag Test -- despues del login entra a crear un post nuevo (3).png",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold": 0.1
+    },
+    {
+      "label": "New Tag Test -- despues del login entra a crear un post nuevo.png",
+      "url": "/screenshots_edge/New Tag Test -- despues del login entra a crear un post nuevo.png",
+      "referenceUrl": "/screenshots_chrome/New Tag Test -- despues del login entra a crear un post nuevo.png",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [

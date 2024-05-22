@@ -2,8 +2,8 @@ const fs = require('fs');
 const path = require('path');
 const resemble = require('resemblejs');
 
-const folder1 = 'screenshots_5.80';
-const folder2 = 'screenshots_3.42';
+const folder1 = 'screenshots_chrome';
+const folder2 = 'screenshots_edge';
 const reportFolder = 'path_to_reports';
 const backstopFolder = '../backstop_data/html_report/index.html';
 

@@ -1,8 +1,8 @@
 const fs = require('fs');
 const path = require('path');
 
-const folder1 = 'screenshots_5.80';
-const folder2 = 'screenshots_3.42';
+const folder1 = 'screenshots_chrome';
+const folder2 = 'screenshots_edge';
 const outputPath = 'backstop_data';
 
 // Leer los nombres de archivo en cada carpeta
